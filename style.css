@@ -1,10 +1,4 @@
- body {
-   color:#000;
-   }
-   a {
-   color:#0000ff;
-   text-decoration:none;
-   }
+
    #lp-pom-image-14 {
    left:calc(605px * var(--scale, 1));
    top:calc(18px * var(--scale, 1));
