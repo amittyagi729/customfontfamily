@@ -165,7 +165,7 @@
    }
    #lp-pom-box-68 {
    left:calc(769px * var(--scale, 1));
-   top:calc(2881px * var(--scale, 1));
+   top:calc(2957px * var(--scale, 1));
    display:block;
    background:rgba(255,255,255,1);
    border-style:none;
@@ -857,7 +857,7 @@
    border-style:none;
    border-radius:calc(0px * var(--scale, 1));
    left:calc(336px * var(--scale, 1));
-   top:calc(3387px * var(--scale, 1));
+   top:calc(3627px * var(--scale, 1));
    z-index:50;
    width:calc(768px * var(--scale, 1));
    height:calc(288px * var(--scale, 1));
@@ -921,7 +921,7 @@
    border-style:none;
    border-radius:calc(0px * var(--scale, 1));
    left:calc(570px * var(--scale, 1));
-   top:calc(3675px * var(--scale, 1));
+   top:calc(3919px * var(--scale, 1));
    z-index:65;
    width:300px;
    height:22px;
